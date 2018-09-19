@@ -3,4 +3,8 @@
 
 Don't forget to do:
 
-npm install
+``` npm install ```
+
+After you can ask for the weather from a city like this: 
+
+```  node app.js -u "Buenos Aires"  ```
